@@ -9,6 +9,8 @@ var func = function() {
     return 'result of function';
 }
 
+var test = [1, 2, 3];
+
 var arr = [1, 2, 3];
 
 console.log(obj.prop2);
